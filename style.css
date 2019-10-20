@@ -1,0 +1,15 @@
+div.keys {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+div.key {
+  text-align: center;
+  color: white;
+  transition: all .07s ease;
+}
+
+div.playing {
+  transform: scale(1.1);
+}
